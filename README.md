@@ -42,7 +42,7 @@
 
 # 시연 이미지
 - 로그인 및 회원가입 시스템<br>
-![image](https://github.com/Chaeros/DamagochiSimulation/assets/91451735/47c79e58-95ac-4f31-9c9c-512d75bfee80)
+https://github.com/Chaeros/DamagochiSimulation/assets/91451735/47c79e58-95ac-4f31-9c9c-512d75bfee80
 <br>
 
 - 캐릭터 능력치 향상 기능
